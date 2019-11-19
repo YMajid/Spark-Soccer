@@ -1,5 +1,5 @@
 # Spark Soccer
-Building an end-to-end data pipeline using Apache Spark and Databrick's Unified Analytics Platform. The pipeline is made up of 3 functional components: data engineering, data analysis, machine learning.
+Built an end-to-end data pipeline using Apache Spark and Databrick's Unified Analytics Platform. The pipeline is made up of 3 functional components: data engineering, data analysis, machine learning.
 
 ## The Data
 The dataset used for this project was retrieved from the [Football Events](https://www.kaggle.com/secareanualin/football-events/version/1) Kaggle competition.
